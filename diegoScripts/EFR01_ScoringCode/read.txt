@@ -1,0 +1,1 @@
+This is the scoring code for the EFR01 n-back task. You'll also find the template file. 
